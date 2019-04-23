@@ -1,0 +1,5 @@
+datasource:
+  jdbcUrl: jdbc:sqlserver://112.162.225.130
+  username: MMS
+  password: BP0620MMS
+  driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
